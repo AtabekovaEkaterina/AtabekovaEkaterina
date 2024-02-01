@@ -1,5 +1,5 @@
-<div style="background #c9aafa;">
-<h1 text-align="center">Hi! My name is Ekaterina 🙂</h1>
+<div style="background-color: #c9aafa;">
+<h1>Hi! My name is Ekaterina 🙂</h1>
 </div>
 
 <h5>I am a Python developer.<br>
@@ -8,7 +8,7 @@ My vocation is backend, but I'm also fond of frontend. Programming for me is dig
 <li> 👩🏻‍💻 I am currently working on creating websites on Django</li>
 <li> 👩🏻‍🎓 I am a graduate of Yandex Practicum</li>
 <li> 🤝 I am ready to collaborate with companies and other developers to develop skills</li>
-<li> 📬 How to reach me: <div style="color: ">ekaterina19870405@gmail.com or https://t.me/Atabelochka</li>
+<li> 📬 How to reach me: <div style="color: #755c9e;">ekaterina19870405@gmail.com</div> or <div style="color: #755c9e;">https://t.me/Atabelochka</div></li>
 
 <!--
 **AtabekovaEkaterina/AtabekovaEkaterina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
