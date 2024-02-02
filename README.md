@@ -2,17 +2,17 @@
 
 <h4>I am a Python developer.<br>
 My vocation is backend, but I'm also fond of frontend. Programming for me is digital creativity.</h4>
+<img scr="https://avatars.dzeninfra.ru/get-zen_doc/3901320/pub_6123337979caa304e0a73682_6123fe6292a1b16491760150/scale_1200" height="50"/>
 
 <li> 👩🏻‍💻 I am currently working on creating websites on Django</li>
 <li> 👩🏻‍🎓 I am a graduate of Yandex Practicum</li>
 <li> 🤝 I am ready to collaborate with companies and other developers to develop skills</li>
-<li> 📬 How to reach me: <mark>ekaterina19870405@gmail.com</mark></li>
-<li> 💬 My telegram account: <mark>https://t.me/Atabelochka</mark></li>
+<li> 📬 How to reach me: ekaterina19870405@gmail.com</li>
+<li> 💬 My telegram account: https://t.me/Atabelochka</li>
 
-<hr>
 
-<h4>Strek technologies:</h4>
 <span align="center">
+<h4>Strek technologies:</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -29,7 +29,8 @@ My vocation is backend, but I'm also fond of frontend. Programming for me is dig
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </span>
-<hr>
+
+
 <span align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtabekovaEkaterina&theme=solarized_dark)
