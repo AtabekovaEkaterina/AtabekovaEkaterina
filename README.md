@@ -58,7 +58,7 @@ Application for an animal charity fund</a>
 
 <span align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtabekovaEkaterina&[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtabekovaEkaterina&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </span>
 <!--
