@@ -6,12 +6,13 @@ My vocation is backend, but I'm also fond of frontend. Programming for me is dig
 <li> 👩🏻‍💻 I am currently working on creating websites on Django</li>
 <li> 👩🏻‍🎓 I am a graduate of Yandex Practicum</li>
 <li> 🤝 I am ready to collaborate with companies and other developers to develop skills</li>
-<li> 📬 How to reach me: ekaterina19870405@gmail.com</li>
-<li> 💬 My telegram account: https://t.me/Atabelochka</li>
+<li> 📬 How to reach me: <mark>ekaterina19870405@gmail.com</mark></li>
+<li> 💬 My telegram account: <mark>https://t.me/Atabelochka</mark></li>
 
 <hr>
 
 <h4>Strek technologies:</h4>
+<span align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -27,8 +28,9 @@ My vocation is backend, but I'm also fond of frontend. Programming for me is dig
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+</span>
 <hr>
-<h6 align="center">
+<span align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtabekovaEkaterina&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtabekovaEkaterina&theme=solarized_dark)
@@ -36,7 +38,7 @@ My vocation is backend, but I'm also fond of frontend. Programming for me is dig
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtabekovaEkaterina&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtabekovaEkaterina&theme=solarized_dark)
 
-</h6>
+</span>
 <!--
 **AtabekovaEkaterina/AtabekovaEkaterina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
