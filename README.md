@@ -16,7 +16,7 @@ Programming for me is digital creativity.</h4>
 and <a href="https://github.com/AtabekovaEkaterina/api_final_yatube" target="_blank">API for the project</a>
 </li>
 <li>
-<a href="https://github.com/AtabekovaEkaterina/hw05_final" target="_blank">Service for collecting reviews of books, music and movies</a>
+<a href="https://github.com/AtabekovaEkaterina/yamdb_final" target="_blank">Service for collecting reviews of books, music and movies</a>
 </li>
 <li>
 <a href="https://github.com/AtabekovaEkaterina/foodgram-project-react" target="_blank">Service for publishing recipes</a>
@@ -58,11 +58,7 @@ Application for an animal charity fund</a>
 
 <span align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtabekovaEkaterina&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtabekovaEkaterina&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtabekovaEkaterina&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtabekovaEkaterina&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtabekovaEkaterina&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtabekovaEkaterina&[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats))
 
 </span>
 <!--
