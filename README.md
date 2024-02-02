@@ -16,7 +16,7 @@ Programming for me is digital creativity.</h4>
 and <a href="https://github.com/AtabekovaEkaterina/api_final_yatube" target="_blank">API for the project</a>
 </li>
 <li>
-<a href="https://github.com/AtabekovaEkaterina/hw05_final" target="_blank">Service for collecting reviews of books, music and movies</a>
+<a href="https://github.com/AtabekovaEkaterina/yamdb_final" target="_blank">Service for collecting reviews of books, music and movies</a>
 </li>
 <li>
 <a href="https://github.com/AtabekovaEkaterina/foodgram-project-react" target="_blank">Service for publishing recipes</a>
