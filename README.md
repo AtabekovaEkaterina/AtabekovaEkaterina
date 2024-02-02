@@ -2,7 +2,7 @@
 
 <h4>I am a Python developer.<br>
 My vocation is backend, but I'm also fond of frontend. Programming for me is digital creativity.</h4>
-<img scr="https://avatars.dzeninfra.ru/get-zen_doc/3901320/pub_6123337979caa304e0a73682_6123fe6292a1b16491760150/scale_1200" height="50"/>
+<img scr="https://avatars.dzeninfra.ru/get-zen_doc/3901320/pub_6123337979caa304e0a73682_6123fe6292a1b16491760150/scale_1200.jpeg" height="50">
 
 <li> 👩🏻‍💻 I am currently working on creating websites on Django</li>
 <li> 👩🏻‍🎓 I am a graduate of Yandex Practicum</li>
