@@ -37,7 +37,7 @@ Application for an animal charity fund</a>
 
 
 <span align="center">
-<h4>Strek technologies:</h4>
+<h4>Stek technologies:</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
